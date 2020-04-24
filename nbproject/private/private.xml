@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/ASIF%20EEE/Xampp/htdocs/php71/resources/views/admin/order/download-invoice.blade.php</file>
+            <file>file:/D:/ASIF%20EEE/Xampp/htdocs/php71/resources/views/front-end/includes/header.blade.php</file>
+            <file>file:/D:/ASIF%20EEE/Xampp/htdocs/php71/resources/views/admin/order/manage-order.blade.php</file>
+            <file>file:/D:/ASIF%20EEE/Xampp/htdocs/php71/app/Http/Middleware/AdminPanelMiddleware.php</file>
+            <file>file:/D:/ASIF%20EEE/Xampp/htdocs/php71/app/Http/Controllers/ProductController.php</file>
+            <file>file:/D:/ASIF%20EEE/Xampp/htdocs/php71/resources/views/admin/master.blade.php</file>
+            <file>file:/D:/ASIF%20EEE/Xampp/htdocs/php71/routes/web.php</file>
+            <file>file:/D:/ASIF%20EEE/Xampp/htdocs/php71/app/Http/Controllers/OrderController.php</file>
+            <file>file:/D:/ASIF%20EEE/Xampp/htdocs/php71/resources/views/admin/order/view-order.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
